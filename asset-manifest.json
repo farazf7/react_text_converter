@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_text_converter/static/css/main.af4efdde.css",
+    "main.js": "/react_text_converter/static/js/main.2435686d.js",
+    "index.html": "/react_text_converter/index.html",
+    "main.af4efdde.css.map": "/react_text_converter/static/css/main.af4efdde.css.map",
+    "main.2435686d.js.map": "/react_text_converter/static/js/main.2435686d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4efdde.css",
+    "static/js/main.2435686d.js"
+  ]
+}
